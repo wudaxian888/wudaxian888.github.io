@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>银杏园</title>
-  <subtitle>银杏小站</subtitle>
+  <subtitle>一个小小银杏窝，正在努力学习python</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
